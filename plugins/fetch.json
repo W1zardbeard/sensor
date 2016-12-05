@@ -1,0 +1,10 @@
+{
+    "cordova-plugin-device-motion": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\Tom\\AppData\\Local\\Intel\\XDK\\xdk\\components\\server\\cordova\\cordova-plugins\\cordova-plugin-device-motion"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
